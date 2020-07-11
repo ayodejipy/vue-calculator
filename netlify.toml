@@ -1,2 +1,4 @@
 [build]
+  base = "vue-calculator/"
   publish = "dist"
+  command = "npm run build"
